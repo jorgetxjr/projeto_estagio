@@ -1,0 +1,8 @@
+https://www.tutorialspoint.com/pdfbox/index.htm
+Especificamente: https://www.tutorialspoint.com/pdfbox/pdfbox_reading_text.htm
+
+O conteúdo parece ser mais interessante que o do site oficial.
+
+c02 216 unix
+---
+11/4 - O PDF box supre as nossas necessidades. Testado com um documento da unisinos. Falta um commit e subir para o git hub. Aguardando também orientação para os próximos passos.
