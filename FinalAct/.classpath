@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/jorge/Documents/UNISINOS/Ciência da Computação/Semestre 5/Estágio/comparar_materias/pdfbox/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorge/Documents/UNISINOS/Ciência da Computação/Semestre 5/Estágio/comparar_materias/pdfbox/fontbox-2.0.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorge/Documents/UNISINOS/Ciência da Computação/Semestre 5/Estágio/comparar_materias/pdfbox/pdfbox-2.0.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorge/Documents/UNISINOS/Ciência da Computação/Semestre 5/Estágio/comparar_materias/pdfbox/pdfbox-tools-2.0.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorge/Documents/UNISINOS/Ciência da Computação/Semestre 5/Estágio/comparar_materias/pdfbox/preflight-2.0.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorge/Documents/UNISINOS/Ciência da Computação/Semestre 5/Estágio/comparar_materias/pdfbox/xmpbox-2.0.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
